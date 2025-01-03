@@ -1,0 +1,50 @@
+{
+  "HomePage": {
+    "title": "Créez Quelque Chose d'Extraordinaire",
+    "subtitle": "Créez quelque chose d'extraordinaire avec Next.js 14",
+    "about": "À propos",
+    "dashboard": "Tableau de bord",
+    "sign-in": "Se connecter",
+    "feature1": {
+      "title": "Ultra Rapide",
+      "description": "Construit sur Next.js 14 pour des performances optimales"
+    },
+    "feature2": {
+      "title": "Internationalisé",
+      "description": "Prêt pour un public mondial avec next-intl"
+    },
+    "feature3": {
+      "title": "Stack Moderne",
+      "description": "Utilisation des dernières technologies web"
+    },
+    "cta": {
+      "title": "Prêt à commencer ?",
+      "description": "Rejoignez-nous et commencez à construire votre prochain grand projet."
+    }
+  },
+  "Auth": {
+    "signIn": "Se connecter",
+    "signing": "Connexion en cours...",
+    "signingUp": "Inscription en cours...",
+    "enterCredentials": "Entrez votre email et mot de passe",
+    "emailPlaceholder": "nom@exemple.com",
+    "passwordPlaceholder": "••••••••",
+    "confirmPasswordPlaceholder": "Confirmez votre mot de passe",
+    "namePlaceholder": "Entrez votre nom complet",
+    "forgotPassword": "Mot de passe oublié ?",
+    "signInWithApple": "Se connecter avec Apple",
+    "signInWithGoogle": "Se connecter avec Google",
+    "signInWithGithub": "Se connecter avec Github",
+    "orContinueWith": "ou continuer avec",
+    "noAccount": "Vous n'avez pas de compte ?",
+    "alreadyHaveAccount": "Vous avez déjà un compte ?",
+    "signUp": "S'inscrire",
+    "termsNotice": "En vous connectant, vous acceptez nos",
+    "termsNoticeSignUp": "En vous inscrivant, vous acceptez nos",
+    "termsOfService": "Conditions d'utilisation",
+    "privacyPolicy": "Politique de confidentialité",
+    "signInHere": "Connectez-vous ici",
+    "and": "et",
+    "error": "Échec de l'authentification"
+  }
+}

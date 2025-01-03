@@ -1,0 +1,50 @@
+{
+  "HomePage": {
+    "title": "Build Something Amazing",
+    "subtitle": "Build something amazing with Next.js 14",
+    "about": "About the page",
+    "dashboard": "Dashboard",
+    "sign-in": "Sign in",
+    "feature1": {
+      "title": "Lightning Fast",
+      "description": "Built on Next.js 14 for optimal performance"
+    },
+    "feature2": {
+      "title": "Internationalized",
+      "description": "Ready for global audiences with next-intl"
+    },
+    "feature3": {
+      "title": "Modern Stack",
+      "description": "Using the latest web technologies"
+    },
+    "cta": {
+      "title": "Ready to get started?",
+      "description": "Join us and start building your next great project."
+    }
+  },
+  "Auth": {
+    "signIn": "Sign In",
+    "signing": "Signing In...",
+    "signingUp": "Signing up...",
+    "enterCredentials": "Enter your email and password",
+    "emailPlaceholder": "name@example.com",
+    "passwordPlaceholder": "••••••••",
+    "confirmPasswordPlaceholder": "Confirm your password",
+    "namePlaceholder": "Enter your full name",
+    "forgotPassword": "Forgot password?",
+    "signInWithApple": "Sign In with Apple",
+    "signInWithGoogle": "Sign In with Google",
+    "signInWithGithub": "Sign In with Github",
+    "orContinueWith": "or continue with",
+    "noAccount": "Don't have an account?",
+    "alreadyHaveAccount": "Already have an account?",
+    "signUp": "Sign Up",
+    "termsNotice": "By signing in, you agree to our",
+    "termsNoticeSignUp": "By signing up, you agree to our",
+    "termsOfService": "Terms of Service",
+    "privacyPolicy": "Privacy Policy",
+    "signInHere": "Sign in here",
+    "and": "and",
+    "error": "Authentication failed"
+  }
+}

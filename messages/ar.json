@@ -1,0 +1,50 @@
+{
+  "HomePage": {
+    "title": "ابنِ شيئاً مذهلاً",
+    "subtitle": "ابنِ شيئاً مذهلاً مع Next.js 14",
+    "about": "حول الصفحة",
+    "dashboard": "لوحة التحكم",
+    "sign-in": "تسجيل الدخول",
+    "feature1": {
+      "title": "سريع كالبرق",
+      "description": "مبني على Next.js 14 للأداء الأمثل"
+    },
+    "feature2": {
+      "title": "دعم متعدد اللغات",
+      "description": "جاهز للجمهور العالمي مع next-intl"
+    },
+    "feature3": {
+      "title": "تقنيات حديثة",
+      "description": "باستخدام أحدث تقنيات الويب"
+    },
+    "cta": {
+      "title": "مستعد للبدء؟",
+      "description": "انضم إلينا وابدأ في بناء مشروعك الكبير القادم."
+    }
+  },
+  "Auth": {
+    "signIn": "تسجيل الدخول",
+    "signing": "جاري تسجيل الدخول...",
+    "signingUp": "جاري التسجيل...",
+    "enterCredentials": "أدخل بريدك الإلكتروني وكلمة المرور",
+    "emailPlaceholder": "name@example.com",
+    "passwordPlaceholder": "••••••••",
+    "confirmPasswordPlaceholder": "تأكيد كلمة المرور",
+    "namePlaceholder": "أدخل اسمك الكامل",
+    "forgotPassword": "نسيت كلمة المرور؟",
+    "signInWithApple": "تسجيل الدخول باستخدام Apple",
+    "signInWithGoogle": "تسجيل الدخول باستخدام Google",
+    "signInWithGithub": "تسجيل الدخول باستخدام Github",
+    "orContinueWith": "أو المتابعة باستخدام",
+    "noAccount": "ليس لديك حساب؟",
+    "alreadyHaveAccount": "لديك حساب بالفعل؟",
+    "signUp": "إنشاء حساب",
+    "termsNotice": "بتسجيل الدخول، فإنك توافق على",
+    "termsNoticeSignUp": "بإنشاء حساب، فإنك توافق على",
+    "termsOfService": "شروط الخدمة",
+    "privacyPolicy": "سياسة الخصوصية",
+    "signInHere": "سجل الدخول هنا",
+    "and": "و",
+    "error": "فشل في المصادقة"
+  }
+}
