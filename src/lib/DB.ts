@@ -12,7 +12,7 @@ import { PHASE_PRODUCTION_BUILD } from 'next/dist/shared/lib/constants';
 import { Client } from 'pg';
 
 import * as schema from '../models/Schema';
-import { Env } from './Env';
+// import { Env } from './Env';
 
 let client;
 let drizzle;
@@ -21,9 +21,9 @@ let drizzle;
 const isBuildTime = process.env.NEXT_PHASE === PHASE_PRODUCTION_BUILD;
 
 if (!isBuildTime) {
-  if (Env.DATABASE_URL) {
+  if (process.env.DATABASE_URL) {
     client = new Client({
-      connectionString: Env.DATABASE_URL,
+      connectionString: process.env.DATABASE_URL,
     });
 
     await client.connect();
