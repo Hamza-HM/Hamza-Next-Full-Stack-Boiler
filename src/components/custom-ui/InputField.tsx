@@ -1,6 +1,6 @@
 import { LabelProps } from '@radix-ui/react-label';
 import { LucideIcon } from 'lucide-react';
-import { InputHTMLAttributes } from 'react';
+import { InputHTMLAttributes, ReactNode } from 'react';
 import { Control, FieldPath, FieldValues } from 'react-hook-form';
 
 import { cn } from '@/lib/utils';
@@ -40,7 +40,7 @@ export const InputField = <
   shouldUnregister?: boolean;
   name: TName;
   placeholder?: string;
-  label?: string | JSX.Element;
+  label?: string | ReactNode;
   description?: string;
   descriptionProps?: React.HTMLAttributes<HTMLParagraphElement>;
   className?: string;
